@@ -1,0 +1,30 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	IPA	TOKENS	COGID
+#
+295	German	I	???ɪx	ɪ x	2
+296	English	I	aɪ	a ɪ	3
+297	Danish	I	jɑj	j ɑ j	1
+298	Swedish	I	jaːg	j aː g	2
+299	Icelandic	I	jɛɣ	j ɛ ɣ	2
+300	Dutch	I	ɪk	ɪ k	2
+301	Norwegian	I	jæj	j æ j	1
+#
+1	German	all	al	a l	4
+2	English	all	ɔːl,a:l	oː l	4
+3	Danish	all	æˀl	æˀ l	4
+4	Swedish	all	alː	a lː	4
+5	Icelandic	all	at͡lir	a t͡l i r	8
+6	Dutch	all	ɑlə	ɑ l ə	4
+7	Norwegian	all	ɑlə	ɑ l ə	4
+#
+8	German	ashes	aʃə	a ʃ ə	9
+9	English	ashes	æʃ	æ ʃ	9
+10	Danish	ashes	asg	a s g	9
+11	Swedish	ashes	asːka	a sː k a	9
+12	Icelandic	ashes	aska	a s k a	9
+13	Dutch	ashes	ɑs	ɑ s	9
+14	Norwegian	ashes	ɑsk	ɑ s k	9
+# Created using the LexStat class of LingPy-2.5
+# Cluster: sca_upgma_0.45

@@ -1,0 +1,36 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^a	a	alː, al	Swedish, Icelandic, German, Danish, English	8	U+005e U+0061
+^j	j	jæj, jaːg	Icelandic, Swedish, Norwegian, Danish	4	U+005e U+006a
+^ɑ	ɑ	ɑlə, ɑsk	Dutch, Norwegian	4	U+005e U+0251
+ə$	ə	ɑlə, aʃə	Dutch, German, Norwegian	3	U+0259 U+0024
+s	s	aska, ɑsk	Icelandic, Norwegian, Danish	3	U+0073
+j$	j	jæj, jɑj	Norwegian, Danish	2	U+006a U+0024
+g$	g	jaːg, asg	Swedish, Danish	2	U+0067 U+0024
+k$	k	ɑsk, ɪk	Dutch, Norwegian	2	U+006b U+0024
+l$	l	al, æˀl	German, Danish	2	U+006c U+0024
+l	l	ɑlə	Dutch, Norwegian	2	U+006c
+k	k	aska, asːka	Icelandic, Swedish	2	U+006b
+a$	a	aska, asːka	Icelandic, Swedish	2	U+0061 U+0024
+^	NULL			1	U+005e
+$	NULL			1	U+0024
+^???	NULL	???ɪx	German	1	U+005e U+003f U+003f U+003f
+ɪ	ɪ	???ɪx	German	1	U+026a
+x$	x	???ɪx	German	1	U+0078 U+0024
+ɪ$	ɪ	aɪ	English	1	U+026a U+0024
+ɑ	ɑ	jɑj	Danish	1	U+0251
+aː	aː	jaːg	Swedish	1	U+0061 U+02d0
+ɛ	ɛ	jɛɣ	Icelandic	1	U+025b
+ɣ$	ɣ	jɛɣ	Icelandic	1	U+0263 U+0024
+^ɪ	ɪ	ɪk	Dutch	1	U+005e U+026a
+æ	æ	jæj	Norwegian	1	U+00e6
+ɔːl,a:l	oː l	ɔːl,a:l	English	1	U+0254 U+02d0 U+006c U+002c U+0061 U+003a U+006c
+^æˀ	æˀ	æˀl	Danish	1	U+005e U+00e6 U+02c0
+lː$	lː	alː	Swedish	1	U+006c U+02d0 U+0024
+t͡l	t͡l	at͡lir	Icelandic	1	U+0074 U+0361 U+006c
+i	i	at͡lir	Icelandic	1	U+0069
+r$	r	at͡lir	Icelandic	1	U+0072 U+0024
+ʃ	ʃ	aʃə	German	1	U+0283
+^æ	æ	æʃ	English	1	U+005e U+00e6
+ʃ$	ʃ	æʃ	English	1	U+0283 U+0024
+sː	sː	asːka	Swedish	1	U+0073 U+02d0
+s$	s	ɑs	Dutch	1	U+0073 U+0024

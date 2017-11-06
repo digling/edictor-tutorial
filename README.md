@@ -14,8 +14,14 @@ This tutorial includes sample data for testing the tools, as well as the tutoria
 
 ## Requirements
 * LingPy: Last commit on [GitHub](https://github.com/lingpy/lingpy)
-* Segments: Last commit on [GitHub[(https://github.com/bambooforest/segments)
+* Segments: Last commit on [GitHub](https://github.com/bambooforest/segments)
 * EDICTOR: online version at [http://edictor.digling.org](http://edictor.digling.org)
 * Concepticon: Last commit on [GitHub](https://github.com/clld/concepticon-data)
 
 All Python modules should be installed in development mode to allow for easy debugging. 
+
+## How to Cite
+
+Please cite this tutorial as:
+
+* List, Johann-Mattis (2017): Historical language comparison with LingPy and EDICTOR. Jena: Max Planck Institute for the Science of Human History. 
