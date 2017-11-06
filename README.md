@@ -24,4 +24,4 @@ All Python modules should be installed in development mode to allow for easy deb
 
 Please cite this tutorial as:
 
-* List, Johann-Mattis (2017): Historical language comparison with LingPy and EDICTOR. Jena: Max Planck Institute for the Science of Human History. 
+* List, Johann-Mattis (2017): Historical language comparison with LingPy and EDICTOR. Jena: Max Planck Institute for the Science of Human History. DOI: [10.5281/zenodo.1042204](https://doi.org/10.5281/zenodo.1042204). 
