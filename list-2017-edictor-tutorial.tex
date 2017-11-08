@@ -462,7 +462,7 @@ these basic fields (columns) in our example:
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  \textbf{\texttt{ID}}: requires a numerical value (integer) greater
+  \textbf{\texttt{ID}}: requires a \emph{unique} numerical value (integer) greater
   than 0, but not necessarily consecutively ordered (i.e., if you have
   5, 10, 10000, all is fine, but you cannot use floats, negative values,
   or 0).
@@ -712,8 +712,8 @@ any commandline, so in contrast to the Python code above, you only need
 to open a terminal, and type in the following commands:
 
 \begin{verbatim}
-$ lingpy profile -i P_profile-creation.tsv -o 
-  P_created-profile.tsv --column=ipa
+$ lingpy profile -i P_input-file.tsv -o 
+  P_simple-profile.tsv --column=ipa
 \end{verbatim}
 
 The resulting profile will look as shown in Table 10.
@@ -1127,7 +1127,7 @@ EDICTOR}\label{annotating-and-data-with-edictor}
 \subsection*{3.1 Overview}\label{overview}
 \addcontentsline{toc}{subsection}{3.1 Overview}
 
-The Etymological DICtionary ediTOR (EDICTOR, http://edictor.diglin.org,
+The Etymological DICtionary ediTOR (EDICTOR, \url{http://edictor.digling.org},
 \href{http://bibliography.lingpy.org?key=List2017d}{List 2017}) is a
 free, interactive, web-based tool that was specifically designed to
 serve as an interface between quantitative and qualitative tasks in
