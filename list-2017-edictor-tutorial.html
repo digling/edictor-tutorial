@@ -12328,7 +12328,7 @@ tʃ a tʰ a ʃ a d̤ dʒ a
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>You can see from this example, that only the "a" is recognized as a valid variant in the string <code>catapura</code>, as the relevant characters are not given in our profile. As a result, you may imagine that it is quite tedious to write an initial orthography profile on your own, specifically when you have not a sound knowledge of the variation in your data.</p>
 <p>To ease the pain, we have written a script that uses LingPy's rather well-informed algorithm for segmentation and can be used for the initial creation of orthography profiles. We demonstrate the usage with the small example file <code>P_input-file.tsv</code>, which contains a couple of Germanic languages and only two concepts. The file which LingPy creates will be called <code>P_profile.tsv</code>. This code can be run in any commandline, so in contrast to the Python code above, you only need to open a terminal, and type in the following commands:</p>
-<div class="highlight"><pre><span></span>$ lingpy profile -i data/P_profile-creation.tsv -o data/P_created-profile.tsv --column<span class="o">=</span>ipa
+<div class="highlight"><pre><span></span>$ lingpy profile -i data/P_input-file.tsv -o data/P_created-profile.tsv --column<span class="o">=</span>ipa
 </pre></div>
 <p>The resulting profile will look as shown in Table 10.</p>
 <p><img src="images/table-10.png" alt="Table 10: Preliminary orthography profile with help of LingPy."></p>
